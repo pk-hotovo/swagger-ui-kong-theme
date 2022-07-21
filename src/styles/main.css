@@ -116,7 +116,7 @@
 }
 
 .swagger-ui section.models.is-open h4 {
-  border-bottom: none;
+  border-bottom: 1px var(--section_colors-stroke) solid;
 }
 
 .swagger-ui section.models > div > h4 > span {
